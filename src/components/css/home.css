@@ -1,0 +1,32 @@
+.header-home {
+  border-radius: 20px;
+  border: 1px solid gray;
+  padding: 30px;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+  background-color: rgb(255, 250, 250, 0.3);
+}
+.home-main {
+  padding: 100px;
+}
+.input-search {
+  border: none;
+  border-bottom: 2px solid gray;
+  background-color: transparent;
+  color: black;
+  width: 95%;
+  padding-bottom: 7px;
+  font-size: 20px;
+}
+.input-search:focus {
+  outline: none;
+  border-bottom: 2px solid black;
+}
+::placeholder {
+  color: black;
+}
+.icon-header {
+  width: 40px;
+  height: 40px;
+  float: left;
+  cursor: pointer;
+}

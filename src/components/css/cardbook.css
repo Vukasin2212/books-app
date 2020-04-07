@@ -1,0 +1,49 @@
+#card-h {
+  border-radius: 10px;
+  margin-bottom: 40px;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+  background-color: rgb(255, 250, 250, 0.3);
+}
+.item-button {
+  width: 50px;
+  padding: 12px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: rgb(48, 48, 48);
+  transition-duration: 0.3s;
+  cursor: pointer;
+}
+.item-button:hover {
+  background-color: gray;
+}
+
+.title-book {
+  font-family: Verdana;
+  font-size: 25px;
+}
+.title-aut {
+  font-family: Verdana;
+  font-size: 18px;
+}
+.book {
+  font-family: Verdana;
+  font-size: 35px;
+}
+.author {
+  font-family: Verdana;
+  font-size: 20px;
+}
+.info-card {
+  font-family: Verdana;
+  font-size: 25px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  text-align: left;
+}
+.info-text {
+  font-family: Verdana;
+  font-size: 25px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
